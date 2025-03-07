@@ -32,3 +32,4 @@ Types of Enumeration
  Nessus Purpose: Comprehensive vulnerability scanning
 
  Arachni  Purpose: Automated web application security scanning
+ 
